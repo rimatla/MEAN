@@ -1,2 +1,2 @@
 # mean_walking_skeleton
-### This is a MEAK Stack walking skeleton assignment. 
+### This is a MEAN Stack walking skeleton assignment. 

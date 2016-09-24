@@ -1,3 +1,1 @@
-# mean_walking_skeleton
-### This is a MEAN Stack walking skeleton assignment. 
-
+#FULL STACK MEAN (MongoDB, Express.JS, Angular.JS & Node.js) Application set from the ground up.
